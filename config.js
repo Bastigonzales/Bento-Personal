@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '14.63333',
-	defaultLongitude: '121.03333',
+	defaultLatitude: '14.647740',
+	defaultLongitude: '121.017460',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -187,8 +187,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: '1337x',
+					link: 'https://www.1337x.to/',
 				},
 				{
 					name: 'Reddit',
