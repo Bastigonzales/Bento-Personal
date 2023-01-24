@@ -209,12 +209,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Profile',
+					link: 'https://github.com/Bastigonzales',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Stars',
+					link: 'https://github.com/Bastigonzales?tab=stars',
 				},
 				{
 					name: 'Go',
@@ -222,7 +222,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					link: 'https://github.com/Bastigonzales?tab=repositories',
 				},
 			],
 		},
