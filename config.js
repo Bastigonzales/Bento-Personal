@@ -135,29 +135,29 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'user',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Reddit',
+					link: 'https://www.reddit.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Twitter',
+					link: 'https://twitter.com/home',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Slav Art',
+					link: 'https://slavart.gamesdrive.net/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'laptop',
 			id: '2',
 			links: [
 				{
@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'AMA',
+					link: 'https://discipulus.amasystem.net',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Stackoverflow',
+					link: 'https://stackoverflow.com/',
 				},
 				{
 					name: 'Slack',
@@ -217,8 +217,8 @@ const CONFIG = {
 					link: 'https://github.com/Bastigonzales?tab=stars',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Explore',
+					link: 'https://github.com/explore',
 				},
 				{
 					name: 'Repos',
