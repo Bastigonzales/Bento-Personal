@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Sebastian',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
@@ -195,12 +195,12 @@ const CONFIG = {
 					link: 'https://www.theodinproject.com/dashboard',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'freecodecamp',
+					link: 'https://www.freecodecamp.org/learn/2022/responsive-web-design',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Web Developer Roadmap',
+					link: 'https://roadmap.sh/',
 				},
 			],
 		},
