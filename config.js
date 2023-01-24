@@ -14,26 +14,26 @@ const CONFIG = {
 	name: 'Sebastian',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: true,
+	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon 🌞',
-	greetingEvening: 'Good evening, 🌙',
-	greetingNight: '"Confusion is part of programming" 🫡',
+	greetingMorning: 'Good morning,',
+	greetingAfternoon: 'Good afternoon, 🌞',
+	greetingEvening: 'Good evening, 🌚',
+	greetingNight: 'Remember to Drink some water 🥛',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'bento884f47355ccbd22c7ee1db8e3d3eaed5', // Write here your API Key
+	weatherKey: '884f47355ccbd22c7ee1db8e3d3eaed5', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '14.647740',
-	defaultLongitude: '121.017460',
+	defaultLatitude: '37.775',
+	defaultLongitude: '-122.419',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/Bastigonzales',
+			link: 'https://github.com/',
 		},
 		{
 			id: '2',
@@ -187,8 +187,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: '1337x',
-					link: 'https://www.1337x.to/',
+					name: 'Spotify',
+					link: 'https://www.spotify.com',
 				},
 				{
 					name: 'Reddit',
@@ -209,20 +209,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Profile',
-					link: 'https://github.com/Bastigonzales',
+					name: 'Front',
+					link: 'https://www.reddit.com/r/Frontend/',
 				},
 				{
-					name: 'Stars',
-					link: 'https://github.com/Bastigonzales?tab=stars',
+					name: 'Rust',
+					link: 'https://www.reddit.com/r/rust/',
+				},
+				{
+					name: 'Go',
+					link: 'https://www.reddit.com/r/golang/',
 				},
 				{
 					name: 'Repos',
-					link: 'https://github.com/Bastigonzales?tab=repositories
-				},
-				{
-					name: 'OdinProject',
-					link: 'https://www.theodinproject.com/dashboard',
+					link: 'https://github.com/migueravila',
 				},
 			],
 		},
