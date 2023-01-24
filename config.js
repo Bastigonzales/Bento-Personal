@@ -183,7 +183,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'book-open',
 			id: '1',
 			links: [
 				{
@@ -191,8 +191,8 @@ const CONFIG = {
 					link: 'https://www.1337x.to/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Odin Project',
+					link: 'https://www.theodinproject.com/dashboard',
 				},
 				{
 					name: 'Hashnode',
