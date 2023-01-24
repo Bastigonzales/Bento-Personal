@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://stackoverflow.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Cisco Netacad',
+					link: 'https://www.netacad.com/',
 				},
 			],
 		},
