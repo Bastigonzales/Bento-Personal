@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon, 🌞',
 	greetingEvening: 'Good evening, 🌚',
-	greetingNight: 'Remember to Drink some water 🥛',
+	greetingNight: '𝓈𝒾𝒸 𝓅𝒶𝓇𝓋𝒾𝓈 𝓂𝒶ℊ𝓃𝒶,',
 
 	// Layout
 	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
@@ -187,8 +187,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: '1337x',
+					link: 'https://www.1337x.to/',
 				},
 				{
 					name: 'Reddit',
