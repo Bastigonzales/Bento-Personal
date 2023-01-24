@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: '"Confusion is part of programming" 🫡',
 
 	// Layout
-	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'bento884f47355ccbd22c7ee1db8e3d3eaed5', // Write here your API Key
@@ -221,7 +221,7 @@ const CONFIG = {
 					link: 'https://github.com/Bastigonzales?tab=repositories
 				},
 				{
-					name: 'Odin Project',
+					name: 'OdinProject',
 					link: 'https://www.theodinproject.com/dashboard',
 				},
 			],
