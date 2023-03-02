@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://twitter.com/home',
 				},
 				{
-					name: 'Slav Art',
-					link: 'https://slavart.gamesdrive.net/',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv/',
 				},
 			],
 		},
