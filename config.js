@@ -32,8 +32,8 @@ const CONFIG = {
 	language: "en", // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: "14.647740",
-	defaultLongitude: "121.017464",
+	defaultLatitude: "14.638",
+	defaultLongitude: "121.0362",
 
 	// Autochange
 	autoChangeTheme: true,
@@ -169,7 +169,7 @@ const CONFIG = {
 					link: "https://discipulus.amasystem.net",
 				},
 				{
-					name: "Google Bard",
+					name: "Google Gemini",
 					link: "https://bard.google.com/",
 				},
 				{
